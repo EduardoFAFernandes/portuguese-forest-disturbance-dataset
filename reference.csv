@@ -1,0 +1,999 @@
+﻿point_id,breaks,causes,valid,invalidation_cause
+1,"2012, 2016","harvest, harvest",TRUE,
+2,,,FALSE,edge of parcel
+3,,,FALSE,artificial area
+4,,,FALSE,hard to analise
+5,,,TRUE,
+6,,,FALSE,low tree density
+7,,,TRUE,
+8,,,TRUE,
+9,,,TRUE,
+10,,,TRUE,
+11,,,TRUE,
+12,,,TRUE,
+13,,,TRUE,
+14,,,TRUE,
+15,,,TRUE,
+16,,,FALSE,low tree density
+17,,,TRUE,
+18,,,TRUE,
+19,,,TRUE,
+20,,,TRUE,
+21,,,TRUE,
+22,,,TRUE,
+23,,,FALSE,low tree density
+24,,,FALSE,low tree density
+25,,,TRUE,
+26,,,TRUE,
+27,,,TRUE,
+28,,,FALSE,hard to analise
+29,,,TRUE,
+30,,,FALSE,hard to analise
+31,,,TRUE,
+32,,,FALSE,hard to analise
+33,,,TRUE,
+34,,,TRUE,
+35,,,TRUE,
+36,,,FALSE,low tree density
+37,,,TRUE,
+38,,,TRUE,
+39,,,TRUE,
+40,,,TRUE,
+41,,,FALSE,edge of parcel
+42,,,TRUE,
+43,,,TRUE,
+44,,,TRUE,
+45,,,TRUE,
+46,,,TRUE,
+47,,,TRUE,
+48,,,FALSE,low tree density
+49,,,TRUE,
+50,2004,fire,TRUE,
+51,,,TRUE,
+52,,,TRUE,
+53,,,FALSE,low tree density
+54,,,FALSE,low tree density
+55,,,TRUE,
+56,,,FALSE,low tree density
+57,2005,other,TRUE,
+58,,,FALSE,low tree density
+59,,,FALSE,low tree density
+60,,,FALSE,low tree density
+61,,,FALSE,low tree density
+62,,,FALSE,low tree density
+63,,,FALSE,low tree density
+64,,,TRUE,
+65,,,TRUE,
+66,,,TRUE,
+67,,,TRUE,
+68,,,TRUE,
+69,,,FALSE,low tree density
+70,2012,fire,TRUE,
+71,,,FALSE,low tree density
+72,,,FALSE,low tree density
+73,,,FALSE,edge of parcel
+74,,,FALSE,low tree density
+75,,,TRUE,
+76,,,TRUE,
+77,,,FALSE,low tree density
+78,,,TRUE,
+79,,,TRUE,
+80,,,FALSE,edge of parcel
+81,1995,fire,TRUE,
+82,1992,unknown,TRUE,
+83,,,FALSE,hard to analise
+84,,,FALSE,low tree density
+85,,,TRUE,
+86,"1989, 2019","unknown, unknown",TRUE,
+87,2005,unknown,TRUE,
+88,,,TRUE,
+89,1997,unknown,TRUE,
+90,,,TRUE,
+91,"1989, 2001, 2006","fire, fire, fire",TRUE,
+92,"2005, 2017","harvest, harvest",TRUE,
+93,2008,unknown,TRUE,
+94,,,FALSE,hard to analise
+95,2002,harvest,TRUE,
+96,,,FALSE,low tree density
+97,,,FALSE,hard to analise
+98,1998,harvest,TRUE,
+99,1991,unknown,TRUE,
+100,1991,fire,TRUE,
+101,,,TRUE,
+102,,,FALSE,low tree density
+103,,,FALSE,low tree density
+104,"2003, 2009","fire, fire",TRUE,
+105,"2001, 2011","harvest, harvest",TRUE,
+106,"1992, 2003, 2015","unknown, fire, harvest",TRUE,
+107,,,FALSE,low tree density
+108,"1992, 1999, 2012","unknown, unknown, harvest",TRUE,
+109,,,FALSE,hard to analise
+110,"1992, 2005, 2015","unknown, harvest, harvest",TRUE,
+111,"1993, 2002, 2013","unknown, harvest, harvest",TRUE,
+112,1998,unknown,TRUE,
+113,,,FALSE,hard to analise
+114,"1992, 2009","unknown, harvest",TRUE,
+115,,,FALSE,artificial area
+116,,,FALSE,edge of parcel
+117,,,FALSE,hard to analise
+118,,,FALSE,edge of parcel
+119,,,FALSE,edge of parcel
+120,"1986, 1993, 2003","unknown, unknown, unknown",TRUE,
+121,"1991, 2005, 2019","unknown, unknown, fire",TRUE,
+122,"1989, 2010, 2019","unknown, harvest, harvest",TRUE,
+123,"1992, 2012","harvest, fire",TRUE,
+124,2007,fire,TRUE,
+125,"1992, 2003, 2018","unknown, fire, harvest",TRUE,
+126,,,FALSE,edge of parcel
+127,2003,fire,TRUE,
+128,"1989, 2003","unknown, harvest",TRUE,
+129,"1989, 2003, 2014","harvest, harvest, harvest",TRUE,
+130,,,FALSE,edge of parcel
+131,"1995, 2004","harvest, harvest",TRUE,
+132,"1999, 2006","harvest, fire",TRUE,
+133,"1989, 2004","unknown, fire",TRUE,
+134,"1993, 2017","fire, harvest",TRUE,
+135,,,FALSE,hard to analise
+136,,,FALSE,hard to analise
+137,2005,harvest,TRUE,
+138,,,FALSE,hard to analise
+139,"1995, 2006, 2018","unknown, unknown, harvest",TRUE,
+140,"1991, 2003, 2012","unknown, unknown, harvest",TRUE,
+141,1999,harvest,TRUE,
+142,,,FALSE,low tree density
+143,"1992, 2003, 2018","unknown, harvest, harvest",TRUE,
+144,"1983, 1999, 2009","fire, harvest, harvest",TRUE,
+145,"1996, 2008, 2018","unknown, harvest, harvest",TRUE,
+146,,,FALSE,edge of parcel
+147,,,FALSE,edge of parcel
+148,,,FALSE,edge of parcel
+149,"1994, 2003, 2017","unknown, fire, harvest",TRUE,
+150,"1992, 2003, 2013","unknown, fire, harvest",TRUE,
+151,"2003, 2018","fire, fire",TRUE,
+152,"2003, 2015","fire, harvest",TRUE,
+153,"1999, 2018","unknown, fire",TRUE,
+154,,,FALSE,edge of parcel
+155,"2000, 2020","harvest, harvest",TRUE,
+156,"1991, 2010","unknown, harvest",TRUE,
+157,,,FALSE,hard to analise
+158,"1995, 2009","harvest, harvest",TRUE,
+159,"1998, 2010","harvest, harvest",TRUE,
+160,,,FALSE,hard to analise
+161,"2005, 2017","harvest, harvest",TRUE,
+162,,,FALSE,hard to analise
+163,"1993, 2003","unknown, fire",TRUE,
+164,"1997, 2003, 2014","unknown, fire, harvest",TRUE,
+165,"1995, 2012","unknown, fire",TRUE,
+166,"1995, 2017","fire, fire",TRUE,
+167,"2003, 2019","fire, harvest",TRUE,
+168,,,FALSE,low tree density
+169,,,FALSE,low tree density
+170,"1991, 2004, 2013","unknown, unknown, unknown",TRUE,
+171,2003,fire,TRUE,
+172,"1986, 2003, 2017","fire, fire, fire",TRUE,
+173,"1991, 2017","fire, fire",TRUE,
+174,"1990, 2003, 2017","unknown, fire, fire",TRUE,
+175,"1987, 1997, 2005, 2015","fire, unknown, fire, harvest",TRUE,
+176,"1985, 2016","fire, fire",TRUE,
+177,,,FALSE,edge of parcel
+178,2017,fire,TRUE,
+179,,,TRUE,
+180,"1995, 2009, 2020","harvest, harvest, harvest",TRUE,
+181,,,FALSE,hard to analise
+182,"1997, 2011","unknown, harvest",TRUE,
+183,,,FALSE,low tree density
+184,,,FALSE,hard to analise
+185,"2003, 2005, 2017","harvest, fire, harvest",TRUE,
+186,"2005, 2015, 2017","fire, harvest, fire",TRUE,
+187,"1990, 2017","fire, fire",TRUE,
+188,"1992, 2008, 2017","fire, unknown, fire",TRUE,
+189,2017,harvest,TRUE,
+190,1995,fire,TRUE,
+191,1995,fire,TRUE,
+192,"1985, 1994, 2008, 2017","fire, unknown, harvest, fire",TRUE,
+193,,,FALSE,edge of parcel
+194,,,FALSE,hard to analise
+195,,,FALSE,edge of parcel
+196,,,FALSE,low tree density
+197,"1998, 1997, 2003, 2007","unknown, unknown, fire, unknown",TRUE,
+198,"2003, 2012","harvest, harvest",TRUE,
+199,"1990, 2003, 2011, 2018","unknown, harvest, harvest, harvest",TRUE,
+200,"1996, 2018","unknown, harvest",TRUE,
+201,,,FALSE,edge of parcel
+202,2013,harvest,TRUE,
+203,"1993, 2007, 2020","unknown, harvest, harvest",TRUE,
+204,,,FALSE,hard to analise
+205,"1990, 2008","unknown, harvest",TRUE,
+206,"2004, 2019","unknown, harvest",TRUE,
+207,"2001, 2013","harvest, harvest",TRUE,
+208,,,FALSE,edge of parcel
+209,,,FALSE,hard to analise
+210,,,FALSE,edge of parcel
+211,,,TRUE,
+212,2013,fire,TRUE,
+213,"2002, 2010","fire, fire",TRUE,
+214,"2002, 2010, 2020","unknown, fire, harvest",TRUE,
+215,2005,harvest,TRUE,
+216,,,FALSE,hard to analise
+217,"2007, 2019","harvest, harvest",TRUE,
+218,2017,fire,TRUE,
+219,2004,fire,TRUE,
+220,"1995, 2012","fire, harvest",TRUE,
+221,"1995, 2005, 2018","fire, fire, harvest",TRUE,
+222,2005,fire,TRUE,
+223,,,FALSE,edge of parcel
+224,,,FALSE,hard to analise
+225,,,FALSE,hard to analise
+226,2010,harvest,TRUE,
+227,,,FALSE,edge of parcel
+228,2009,harvest,TRUE,
+229,"2005, 2016","fire, fire",TRUE,
+230,,,FALSE,edge of parcel
+231,"1994, 2008, 2017","harvest, harvest, fire",TRUE,
+232,"1994, 2011, 2017","harvest, harvest, fire",TRUE,
+233,,,FALSE,edge of parcel
+234,,,TRUE,
+235,,,FALSE,hard to analise
+236,"1996, 2001, 2011, 2016","unknown, unknown, harvest, fire",TRUE,
+237,"1991, 2005, 2016","unknown, harvest, fire",TRUE,
+238,"1997, 2005, 2020","unknown, fire, harvest",TRUE,
+239,"2005, 2011, 2020","fire, fire, harvest",TRUE,
+240,,,FALSE,edge of parcel
+241,"1987, 2015","unknown, fire",TRUE,
+242,,,FALSE,hard to analise
+243,"2000, 2014","harvest, harvest",TRUE,
+244,,,FALSE,hard to analise
+245,"1994, 2006, 2016","unknown, harvest, harvest",TRUE,
+246,"1986, 1990, 2004, 2020","fire, harvest, harvest, harvest",TRUE,
+247,,,TRUE,
+248,"1993, 2002, 2017","harvest, harvest, fire",TRUE,
+249,"1991, 2005, 2016","fire, fire, harvest",TRUE,
+250,2005,fire,TRUE,
+251,"1995, 2005","fire, fire",TRUE,
+252,"1998, 2012","unknown, harvest",TRUE,
+253,1997,unknown,TRUE,
+254,"1994, 2011, 2017","unknown, harvest, fire",TRUE,
+255,,,FALSE,edge of parcel
+256,"1989, 2005","unknown, harvest",TRUE,
+257,2012,harvest,TRUE,
+258,"1989, 2005, 2016","unknown, fire, harvest",TRUE,
+259,"1989, 2016","fire, fire",TRUE,
+260,2000,unknown,TRUE,
+261,"1987, 2013","fire, harvest",TRUE,
+262,"1998, 2006, 2011, 2016","fire, fire, fire, fire",TRUE,
+263,2016,fire,TRUE,
+264,2000,unknown,TRUE,
+265,2012,harvest,TRUE,
+266,"1990, 2003, 2006","unknown, fire, fire",TRUE,
+267,,,TRUE,
+268,,,TRUE,
+269,,,FALSE,hard to analise
+270,,,TRUE,
+271,,,FALSE,edge of parcel
+272,,,FALSE,edge of parcel
+273,,,FALSE,hard to analise
+274,,,TRUE,
+275,2013,fire,TRUE,
+276,,,FALSE,hard to analise
+277,"1995, 2011, 2020","fire, harvest, harvest",TRUE,
+278,2012,fire,TRUE,
+279,,,FALSE,edge of parcel
+280,,,FALSE,hard to analise
+281,,,FALSE,hard to analise
+282,,,FALSE,low tree density
+283,,,TRUE,
+284,,,TRUE,
+285,,,FALSE,hard to analise
+286,,,TRUE,
+287,,,TRUE,
+288,2013,harvest,TRUE,
+289,,,FALSE,hard to analise
+290,,,FALSE,hard to analise
+291,,,TRUE,
+292,2017,fire,TRUE,
+293,"1985, 2005, 2017","fire, fire, fire",TRUE,
+294,2017,fire,TRUE,
+295,,,FALSE,hard to analise
+296,1991,unknown,TRUE,
+297,,,TRUE,
+298,,,TRUE,
+299,,,FALSE,artificial area
+300,2005,harvest,TRUE,
+301,,,TRUE,
+302,,,FALSE,hard to analise
+303,,,FALSE,hard to analise
+304,,,TRUE,
+305,,,FALSE,low tree density
+306,,,TRUE,
+307,,,TRUE,
+308,,,FALSE,hard to analise
+309,,,TRUE,
+310,,,TRUE,
+311,,,FALSE,hard to analise
+312,,,FALSE,artificial area
+313,,,TRUE,
+314,,,TRUE,
+315,,,FALSE,hard to analise
+316,1988,unknown,TRUE,
+317,2017,harvest,TRUE,
+318,,,FALSE,low tree density
+319,,,FALSE,hard to analise
+320,,,FALSE,hard to analise
+321,"1989, 1995, 2008","unknown, fire, harvest",TRUE,
+322,,,FALSE,low tree density
+323,"1997, 2015","unknown, harvest",TRUE,
+324,,,FALSE,hard to analise
+325,,,FALSE,edge of parcel
+326,,,TRUE,
+327,2016,fire,TRUE,
+328,,,FALSE,hard to analise
+329,"1987, 1990, 2012","fire, fire, harvest",TRUE,
+330,,,FALSE,hard to analise
+331,,,TRUE,
+332,"1987, 2013, 2019","unknown, harvest, fire",TRUE,
+333,,,FALSE,low tree density
+334,2006,other,TRUE,
+335,"1987, 1996","unknown, unknown",TRUE,
+336,2012,harvest,TRUE,
+337,2012,harvest,TRUE,
+338,,,TRUE,
+339,,,FALSE,low tree density
+340,,,TRUE,
+341,,,FALSE,artificial area
+342,,,FALSE,hard to analise
+343,"1986, 2012, 2020","fire, fire, other",TRUE,
+344,,,FALSE,low tree density
+345,2013,harvest,TRUE,
+346,,,TRUE,
+347,,,TRUE,
+348,,,FALSE,low tree density
+349,,,FALSE,hard to analise
+350,"2000,  2003, 2017","unknown, fire, fire",TRUE,
+351,"1990, 2001, 2012","unknown, fire, fire",TRUE,
+352,"1991, 2005","fire, fire",TRUE,
+353,1991,fire,TRUE,
+354,2017,fire,TRUE,
+355,1998,fire,TRUE,
+356,"1995, 2002","unknown, fire",TRUE,
+357,2008,harvest,TRUE,
+358,"1991, 2003","fire, fire",TRUE,
+359,,,TRUE,
+360,2011,harvest,TRUE,
+361,,,FALSE,edge of parcel
+362,2018,harvest,TRUE,
+363,,,TRUE,
+364,,,TRUE,
+365,,,TRUE,
+366,,,FALSE,low tree density
+367,"1991, 2017","fire, fire",TRUE,
+368,1995,fire,TRUE,
+369,,,FALSE,hard to analise
+370,2017,fire,TRUE,
+371,,,FALSE,edge of parcel
+372,,,FALSE,low tree density
+373,,,FALSE,edge of parcel
+374,,,FALSE,hard to analise
+375,2017,fire,TRUE,
+376,1991,fire,TRUE,
+377,"2003, 2020","fire, fire",TRUE,
+378,2003,fire,TRUE,
+379,,,TRUE,
+380,1990,unknown,TRUE,
+381,,,TRUE,
+382,"1987, 2016","fire, fire",TRUE,
+383,,,TRUE,
+384,2004,fire,TRUE,
+385,,,TRUE,
+386,"2011, 2017","harvest, fire",TRUE,
+387,,,TRUE,
+388,2019,harvest,TRUE,
+389,2013,fire,TRUE,
+390,,,TRUE,
+391,,,TRUE,
+392,"2008, 2018","harvest, harvest",TRUE,
+393,2012,harvest,TRUE,
+394,2013,harvest,TRUE,
+395,"1990, 1997, 2013","fire, unknown, fire",TRUE,
+396,,,FALSE,low tree density
+397,"1991, 2017","fire, fire",TRUE,
+398,"1987, 2017","fire, fire",TRUE,
+399,,,TRUE,
+400,"2001, 2017","fire, fire",TRUE,
+401,"1991, 2001, 2012, 2017","fire, harvest, harvest, fire",TRUE,
+402,,,FALSE,artificial area
+403,2012,harvest,TRUE,
+404,1991,fire,TRUE,
+405,2017,fire,TRUE,
+406,"1995, 2017","fire, fire",TRUE,
+407,"1991, 2005","fire, fire",TRUE,
+408,,,FALSE,hard to analise
+409,"1991, 2017","unknown, fire",TRUE,
+410,,,FALSE,artificial area
+411,,,TRUE,
+412,"2004, 2012","fire, fire",TRUE,
+413,1990,unknown,TRUE,
+414,2004,harvest,TRUE,
+415,,,TRUE,
+416,1997,unknown,TRUE,
+417,,,TRUE,
+418,,,TRUE,
+419,,,FALSE,hard to analise
+420,,,TRUE,
+421,,,FALSE,hard to analise
+422,"1993, 2017","fire, fire",TRUE,
+423,"2012, 2018","fire, unknown",TRUE,
+424,"1987, 2017","fire, fire",TRUE,
+425,2005,harvest,TRUE,
+426,"1992, 2007, 2017","harvest, harvest, fire",TRUE,
+427,,,FALSE,hard to analise
+428,2003,fire,TRUE,
+429,,,TRUE,
+430,2011,harvest,TRUE,
+431,,,TRUE,
+432,1988,unknown,TRUE,
+433,"2003, 2015","harvest, harvest",TRUE,
+434,2008,harvest,TRUE,
+435,"2016, 2020","fire, harvest",TRUE,
+436,2017,harvest,TRUE,
+437,,,TRUE,
+438,"2003, 2010, 2017","fire, other, fire",TRUE,
+439,2017,fire,TRUE,
+440,,,TRUE,
+441,"1987, 1992, 2000, 2017","fire, unknown, unknown, fire",TRUE,
+442,,,TRUE,
+443,,,TRUE,
+444,,,FALSE,hard to analise
+445,,,TRUE,
+446,,,TRUE,
+447,2012,fire,TRUE,
+448,2010,fire,TRUE,
+449,"1985, 2002, 2016","fire, fire, fire",TRUE,
+450,,,FALSE,hard to analise
+451,,,TRUE,
+452,,,FALSE,hard to analise
+453,,,TRUE,
+454,1984,fire,TRUE,
+455,,,TRUE,
+456,,,FALSE,low tree density
+457,,,TRUE,
+458,,,TRUE,
+459,2016,fire,TRUE,
+460,"2005, 2011","fire, fire",TRUE,
+461,1990,unknown,TRUE,
+462,1997,unknown,TRUE,
+463,,,FALSE,artificial area
+464,,,TRUE,
+465,,,FALSE,artificial area
+466,2017,fire,TRUE,
+467,2001,fire,TRUE,
+468,2012,harvest,TRUE,
+469,,,TRUE,
+470,2004,harvest,TRUE,
+471,,,FALSE,hard to analise
+472,1989,unknown,TRUE,
+473,2008,harvest,TRUE,
+474,2010,fire,TRUE,
+475,,,TRUE,
+476,,,TRUE,
+477,,,TRUE,
+478,,,FALSE,hard to analise
+479,2011,harvest,TRUE,
+480,"2000, 2012","harvest, harvest",TRUE,
+481,,,TRUE,
+482,,,FALSE,hard to analise
+483,,,TRUE,
+484,1998,unknown,TRUE,
+485,,,FALSE,hard to analise
+486,,,TRUE,
+487,"1991, 2012","unknown, harvest",TRUE,
+488,,,FALSE,hard to analise
+489,,,TRUE,
+490,,,TRUE,
+491,,,TRUE,
+492,,,TRUE,
+493,,,TRUE,
+494,2009,harvest,TRUE,
+495,2010,harvest,TRUE,
+496,2020,harvest,TRUE,
+497,,,FALSE,low tree density
+498,,,FALSE,low tree density
+499,,,TRUE,
+500,,,FALSE,hard to analise
+501,,,FALSE,hard to analise
+502,,,FALSE,hard to analise
+503,,,TRUE,
+504,,,TRUE,
+505,,,TRUE,
+506,,,FALSE,low tree density
+507,,,FALSE,low tree density
+508,,,FALSE,edge of parcel
+509,"1987, 1993, 1999","fire, fire, unknown",TRUE,
+510,,,TRUE,
+511,,,FALSE,low tree density
+512,"1989, 2020","harvest, fire",TRUE,
+513,,,FALSE,edge of parcel
+514,,,FALSE,low tree density
+515,"1997, 2003","unknown, fire",TRUE,
+516,,,TRUE,
+517,,,TRUE,
+518,,,FALSE,edge of parcel
+519,,,FALSE,hard to analise
+520,,,TRUE,
+521,2003,fire,TRUE,
+522,,,FALSE,hard to analise
+523,,,TRUE,
+524,,,TRUE,
+525,,,TRUE,
+526,,,TRUE,
+527,,,TRUE,
+528,,,FALSE,low tree density
+529,,,TRUE,
+530,2012,harvest,TRUE,
+531,,,FALSE,low tree density
+532,,,TRUE,
+533,,,FALSE,low tree density
+534,,,TRUE,
+535,,,TRUE,
+536,,,TRUE,
+537,,,TRUE,
+538,,,FALSE,low tree density
+539,,,FALSE,low tree density
+540,,,TRUE,
+541,,,TRUE,
+542,,,FALSE,low tree density
+543,,,TRUE,
+544,,,FALSE,low tree density
+545,,,FALSE,low tree density
+546,,,TRUE,
+547,,,TRUE,
+548,,,FALSE,hard to analise
+549,,,TRUE,
+550,,,TRUE,
+551,,,FALSE,hard to analise
+552,,,TRUE,
+553,,,TRUE,
+554,,,FALSE,low tree density
+555,"1986, 1991, 2004","fire, unknown, unknown",TRUE,
+556,,,FALSE,low tree density
+557,,,FALSE,low tree density
+558,,,FALSE,low tree density
+559,,,TRUE,
+560,,,FALSE,hard to analise
+561,,,TRUE,
+562,,,FALSE,low tree density
+563,,,TRUE,
+564,,,FALSE,low tree density
+565,,,TRUE,
+566,,,FALSE,low tree density
+567,,,TRUE,
+568,,,TRUE,
+569,,,FALSE,low tree density
+570,,,FALSE,low tree density
+571,,,TRUE,
+572,2006,harvest,TRUE,
+573,,,TRUE,
+574,,,TRUE,
+575,,,TRUE,
+576,2006,harvest,TRUE,
+577,,,TRUE,
+578,,,FALSE,low tree density
+579,,,FALSE,low tree density
+580,,,FALSE,low tree density
+581,,,TRUE,
+582,,,TRUE,
+583,1988,harvest,TRUE,
+584,,,TRUE,
+585,,,TRUE,
+586,,,TRUE,
+587,,,TRUE,
+588,,,TRUE,
+589,,,TRUE,
+590,,,TRUE,
+591,,,TRUE,
+592,2005,harvest,TRUE,
+593,,,FALSE,hard to analise
+594,,,TRUE,
+595,,,TRUE,
+596,,,FALSE,hard to analise
+597,,,TRUE,
+598,,,TRUE,
+599,1998,harvest,TRUE,
+600,,,TRUE,
+601,,,FALSE,hard to analise
+602,,,FALSE,low tree density
+603,,,FALSE,low tree density
+604,,,TRUE,
+605,,,FALSE,low tree density
+606,,,TRUE,
+607,"1997, 2017","harvest, harvest",TRUE,
+608,,,TRUE,
+609,,,TRUE,
+610,,,TRUE,
+611,,,FALSE,hard to analise
+612,,,FALSE,low tree density
+613,,,TRUE,
+614,,,TRUE,
+615,,,FALSE,hard to analise
+616,,,TRUE,
+617,,,FALSE,hard to analise
+618,,,TRUE,
+619,,,TRUE,
+620,,,TRUE,
+621,,,TRUE,
+622,,,FALSE,hard to analise
+623,,,FALSE,low tree density
+624,,,FALSE,low tree density
+625,"1991, 2004","unknown, unknown",TRUE,
+626,,,FALSE,hard to analise
+627,,,FALSE,low tree density
+628,,,TRUE,
+629,,,FALSE,low tree density
+630,,,FALSE,low tree density
+631,,,FALSE,low tree density
+632,,,FALSE,low tree density
+633,,,TRUE,
+634,,,TRUE,
+635,,,FALSE,low tree density
+636,,,FALSE,low tree density
+637,,,FALSE,low tree density
+638,,,FALSE,low tree density
+639,,,TRUE,
+640,,,FALSE,low tree density
+641,,,FALSE,low tree density
+642,,,TRUE,
+643,,,TRUE,
+644,,,TRUE,
+645,,,TRUE,
+646,1990,unknown,TRUE,
+647,,,TRUE,
+648,,,FALSE,hard to analise
+649,,,FALSE,hard to analise
+650,,,TRUE,
+651,,,FALSE,hard to analise
+652,,,FALSE,low tree density
+653,,,TRUE,
+654,,,FALSE,low tree density
+655,,,FALSE,low tree density
+656,,,FALSE,low tree density
+657,,,TRUE,
+658,2003,fire,TRUE,
+659,2003,fire,TRUE,
+660,2017,fire,TRUE,
+661,,,FALSE,low tree density
+662,,,FALSE,low tree density
+663,,,TRUE,
+664,,,FALSE,low tree density
+665,,,TRUE,
+666,,,FALSE,low tree density
+667,,,FALSE,low tree density
+668,,,TRUE,
+669,,,TRUE,
+670,,,FALSE,low tree density
+671,,,FALSE,low tree density
+672,,,TRUE,
+673,,,TRUE,
+674,,,TRUE,
+675,,,TRUE,
+676,,,TRUE,
+677,1998,fire,TRUE,
+678,,,FALSE,low tree density
+679,,,TRUE,
+680,,,FALSE,hard to analise
+681,,,TRUE,
+682,,,TRUE,
+683,,,TRUE,
+684,,,TRUE,
+685,,,TRUE,
+686,,,FALSE,low tree density
+687,,,FALSE,hard to analise
+688,,,FALSE,hard to analise
+689,,,FALSE,hard to analise
+690,,,FALSE,low tree density
+691,,,FALSE,low tree density
+692,,,FALSE,low tree density
+693,,,TRUE,
+694,,,TRUE,
+695,,,TRUE,
+696,,,FALSE,low tree density
+697,2016,fire,TRUE,
+698,,,FALSE,hard to analise
+699,,,TRUE,
+700,,,FALSE,hard to analise
+701,,,FALSE,hard to analise
+702,"1990, 1998, 2009","unknown, unknown, fire",TRUE,
+703,"2000, 2009","unknown, fire",TRUE,
+704,"1985, 2011","fire, fire",TRUE,
+705,,,FALSE,hard to analise
+706,"2006, 2017","fire, fire",TRUE,
+707,"1987, 2013, 2017","fire, fire, fire",TRUE,
+708,,,TRUE,
+709,,,FALSE,low tree density
+710,,,FALSE,hard to analise
+711,,,TRUE,
+712,,,FALSE,low tree density
+713,"1994,  2005, 2015","unknown, harvest, harvest",TRUE,
+714,,,FALSE,hard to analise
+715,"1991, 2003, 2015","unknown, harvest, harvest",TRUE,
+716,"1985, 2002, 2008","fire, harvest, harvest",TRUE,
+717,"1988, 2000, 2014 ","unknown, unknown, harvest",TRUE,
+718,,,TRUE,
+719,"1993, 2012, 2019","unknown, harvest, harvest",TRUE,
+720,"1988, 1998, 2013","unknown, harvest, harvest",TRUE,
+721,"1988, 1995, 2010, 2020","unknown, fire, harvest, harvest",TRUE,
+722,"1993, 2006, 2019","unknown, harvest, harvest",TRUE,
+723,"1987, 1996, 2009","unknown, unknown, harvest",TRUE,
+724,"1991, 2008","unknown, harvest",TRUE,
+725,"1992, 2003, 2018","unknown, harvest, harvest",TRUE,
+726,"1992, 2003, 2014","unknown, unknown, harvest",TRUE,
+727,,,FALSE,hard to analise
+728,"1999, 2006, 2017","unknown, harvest, harvest",TRUE,
+729,,,FALSE,edge of parcel
+730,,,FALSE,hard to analise
+731,2003,fire,TRUE,
+732,"1995, 2008, 2017","unknown, harvest, harvest",TRUE,
+733,,,FALSE,edge of parcel
+734,,,FALSE,hard to analise
+735,"1994, 2006, 2019","unknown, harvest, harvest",TRUE,
+736,"2003, 2018","fire, fire",TRUE,
+737,,,FALSE,low tree density
+738,1991,fire,TRUE,
+739,,,FALSE,low tree density
+740,"1985, 1996, 2006","unknown, unknown, harvest",TRUE,
+741,,,FALSE,low tree density
+742,"1989, 2002, 2013","unknown, unknown, harvest",TRUE,
+743,,,FALSE,low tree density
+744,"1995, 2014","unknown, harvest",TRUE,
+745,,,FALSE,hard to analise
+746,"1998, 2004, 2012","fire, harvest, harvest",TRUE,
+747,"1984, 1988, 1998, 2003, 2012, 2017","fire, harvest, harvest, fire, harvest, fire",TRUE,
+748,"1985, 1988, 2002, 2013, 2016","fire, harvest, harvest, harvest, fire",TRUE,
+749,"1987, 1995, 2005","fire, harvest, fire",TRUE,
+750,,,FALSE,hard to analise
+751,2015,harvest,TRUE,
+752,"2003, 2016","harvest, fire",TRUE,
+753,"2008, 2017","harvest, fire",TRUE,
+754,2017,harvest,TRUE,
+755,2017,fire,TRUE,
+756,2003,harvest,TRUE,
+757,,,FALSE,hard to analise
+758,"1990, 2003, 2015","unknown, fire, harvest",TRUE,
+759,"1993, 2003, 2016","unknown, fire, harvest",TRUE,
+760,"1987, 1992, 1996, 2007","fire, fire, fire, harvest",TRUE,
+761,"1990, 2007, 2019","unknown, harvest, harvest",TRUE,
+762,2009,harvest,TRUE,
+763,2005,fire,TRUE,
+764,1995,fire,TRUE,
+765,"1990, 2012","unknown, harvest",TRUE,
+766,"1990, 2012","fire, fire",TRUE,
+767,"1987, 1996, 2009","unknown, unknown, harvest",TRUE,
+768,1994,unknown,TRUE,
+769,"2002, 2013","harvest, harvest",TRUE,
+770,"1990, 2005, 2017","fire, fire, fire",TRUE,
+771,,,FALSE,artificial area
+772,"1985, 2004, 2016","fire, fire, fire",TRUE,
+773,"1998, 2006, 2016","harvest, harvest, harvest",TRUE,
+774,,,TRUE,
+775,2010,fire,TRUE,
+776,,,FALSE,artificial area
+777,2011,harvest,TRUE,
+778,"1999, 2010, 2012","harvest, harvest, fire",TRUE,
+779,"1996, 2005","harvest, harvest",TRUE,
+780,"1994, 2018","unknown, harvest",TRUE,
+781,"2002, 2010","harvest, harvest",TRUE,
+782,,,FALSE,artificial area
+783,"2006, 2017","harvest, harvest",TRUE,
+784,"2002, 2017, 2019","harvest, fire, harvest",TRUE,
+785,"1995, 2003, 2014","unknown, harvest, harvest",TRUE,
+786,1990,fire,TRUE,
+787,1997,fire,TRUE,
+788,"1998, 2011","unknown, harvest",TRUE,
+789,"1990, 2004, 2016","unknown, harvest, harvest",TRUE,
+790,,,TRUE,
+791,"1991, 2016","unknown, fire",TRUE,
+792,"1995, 2004, 2013","fire, unknown, fire",TRUE,
+793,,,FALSE,hard to analise
+794,"1995, 2004, 2005, 2014","unknown, harvest, fire, harvest",TRUE,
+795,"1990, 1995, 2008, 2019","fire, unknown, harvest, harvest",TRUE,
+796,,,FALSE,hard to analise
+797,"1986, 2005, 2015","fire, fire, harvest",TRUE,
+798,"2001, 2016","fire, fire",TRUE,
+799,,,FALSE,hard to analise
+800,,,FALSE,hard to analise
+801,,,FALSE,hard to analise
+802,,,FALSE,artificial area
+803,,,FALSE,low tree density
+804,,,FALSE,low tree density
+805,,,FALSE,hard to analise
+806,"1988, 1991, 1995, 2004","fire, fire, unknown, harvest",TRUE,
+807,"1991, 1996","fire, fire",TRUE,
+808,"1992, 2013","unknown, fire",TRUE,
+809,2017,fire,TRUE,
+810,,,FALSE,hard to analise
+811,,,FALSE,hard to analise
+812,,,TRUE,
+813,1997,unknown,TRUE,
+814,,,FALSE,low tree density
+815,,,FALSE,low tree density
+816,,,TRUE,
+817,,,FALSE,low tree density
+818,,,TRUE,
+819,,,FALSE,low tree density
+820,,,TRUE,
+821,,,TRUE,
+822,,,FALSE,hard to analise
+823,,,FALSE,hard to analise
+824,,,FALSE,low tree density
+825,,,FALSE,hard to analise
+826,1997,unknown,TRUE,
+827,2013,fire,TRUE,
+828,2017,harvest,TRUE,
+829,"2001, 2019","fire, harvest",TRUE,
+830,"1998, 2017","unknown, harvest",TRUE,
+831,1988,unknown,TRUE,
+832,2010,other,TRUE,
+833,2001,unknown,TRUE,
+834,2009,harvest,TRUE,
+835,,,FALSE,hard to analise
+836,"1991, 2020","fire, harvest",TRUE,
+837,"1986, 2004","unknown, harvest",TRUE,
+838,"2015, 2019","harvest, harvest",TRUE,
+839,"1987, 2019","unknown, harvest",TRUE,
+840,"1987, 1999, 2005, 2017","unknown, unknown, harvest, harvest",TRUE,
+841,1991,fire,TRUE,
+842,2017,fire,TRUE,
+843,1990,fire,TRUE,
+844,2000,other,TRUE,
+845,,,FALSE,hard to analise
+846,2003,fire,TRUE,
+847,1988,unknown,TRUE,
+848,"2002, 2017","fire, fire",TRUE,
+849,"1986, 2005","fire, fire",TRUE,
+850,"2003, 2017","fire, fire",TRUE,
+851,2003,fire,TRUE,
+852,,,FALSE,artificial area
+853,2016,harvest,TRUE,
+854,,,TRUE,
+855,"1991, 2013","fire, fire",TRUE,
+856,,,FALSE,hard to analise
+857,,,TRUE,
+858,,,TRUE,
+859,,,TRUE,
+860,,,TRUE,
+861,2008,harvest,TRUE,
+862,"1985, 2000, 2017","fire, fire, fire",TRUE,
+863,"1991, 2017","fire, fire",TRUE,
+864,1986,fire,TRUE,
+865,2017,fire,TRUE,
+866,"1987, 2005, 2017","fire, fire, fire",TRUE,
+867,1999,fire,TRUE,
+868,,,FALSE,hard to analise
+869,2001,harvest,TRUE,
+870,2012,harvest,TRUE,
+871,2018,harvest,TRUE,
+872,,,FALSE,hard to analise
+873,2009,harvest,TRUE,
+874,"2000, 2019","harvest, harvest",TRUE,
+875,2013,fire,TRUE,
+876,,,FALSE,hard to analise
+877,,,FALSE,low tree density
+878,,,FALSE,low tree density
+879,1996,unknown,TRUE,
+880,"1999, 2015","unknown, harvest",TRUE,
+881,"1993, 2011, 2017","unknown, other, harvest",TRUE,
+882,2014,harvest,TRUE,
+883,1995,fire,TRUE,
+884,,,FALSE,hard to analise
+885,1991,fire,TRUE,
+886,2019,harvest,TRUE,
+887,,,FALSE,hard to analise
+888,"2002,  2011","fire, fire",TRUE,
+889,2009,fire,TRUE,
+890,,,FALSE,hard to analise
+891,2005,fire,TRUE,
+892,"1984, 2017","fire, fire",TRUE,
+893,,,TRUE,
+894,,,FALSE,hard to analise
+895,,,FALSE,artificial area
+896,,,FALSE,hard to analise
+897,,,TRUE,
+898,,,FALSE,hard to analise
+899,"1986, 2009","fire, fire",TRUE,
+900,,,TRUE,
+901,,,TRUE,
+902,,,FALSE,hard to analise
+903,,,FALSE,low tree density
+904,,,TRUE,
+905,,,FALSE,hard to analise
+906,,,FALSE,hard to analise
+907,,,TRUE,
+908,,,TRUE,
+909,,,FALSE,hard to analise
+910,,,TRUE,
+911,,,TRUE,
+912,,,FALSE,low tree density
+913,1997,unknown,TRUE,
+914,1995,unknown,TRUE,
+915,,,FALSE,low tree density
+916,,,FALSE,hard to analise
+917,,,FALSE,low tree density
+918,1999,unknown,TRUE,
+919,,,FALSE,low tree density
+920,,,FALSE,hard to analise
+921,2004,fire,TRUE,
+922,"2000, 2011","unknown, unknown",TRUE,
+923,,,FALSE,low tree density
+924,"1986, 2003, 2007, 2012","fire, fire, unknown, unknown",TRUE,
+925,,,TRUE,
+926,"1990, 2006","unknown, harvest",TRUE,
+927,,,TRUE,
+928,,,FALSE,hard to analise
+929,,,FALSE,low tree density
+930,"1990, 1998","unknown, unknown",TRUE,
+931,,,TRUE,
+932,,,TRUE,
+933,,,TRUE,
+934,,,TRUE,
+935,,,FALSE,low tree density
+936,,,TRUE,
+937,,,FALSE,low tree density
+938,,,TRUE,
+939,,,TRUE,
+940,,,FALSE,hard to analise
+941,,,TRUE,
+942,,,FALSE,low tree density
+943,,,TRUE,
+944,,,FALSE,low tree density
+945,,,TRUE,
+946,,,FALSE,low tree density
+947,,,TRUE,
+948,,,TRUE,
+949,,,TRUE,
+950,,,TRUE,
+951,,,TRUE,
+952,,,FALSE,low tree density
+953,,,TRUE,
+954,,,TRUE,
+955,,,FALSE,low tree density
+956,,,TRUE,
+957,,,FALSE,low tree density
+958,,,FALSE,hard to analise
+959,,,FALSE,hard to analise
+960,,,TRUE,
+961,,,TRUE,
+962,,,FALSE,low tree density
+963,,,TRUE,
+964,,,FALSE,low tree density
+965,,,FALSE,low tree density
+966,,,TRUE,
+967,,,FALSE,low tree density
+968,,,FALSE,hard to analise
+969,,,TRUE,
+970,,,TRUE,
+971,,,FALSE,low tree density
+972,2008,unknown,TRUE,
+973,,,TRUE,
+974,,,FALSE,hard to analise
+975,,,TRUE,
+976,,,FALSE,low tree density
+977,,,FALSE,low tree density
+978,,,FALSE,hard to analise
+979,1992,unknown,TRUE,
+980,,,FALSE,hard to analise
+981,,,FALSE,low tree density
+982,,,TRUE,
+983,,,FALSE,low tree density
+984,,,FALSE,hard to analise
+985,,,TRUE,
+986,,,TRUE,
+987,,,FALSE,low tree density
+988,2001,unknown,TRUE,
+989,"1987, 2004","unknown, unknown",TRUE,
+990,,,FALSE,low tree density
+991,1997,unknown,TRUE,
+992,,,FALSE,hard to analise
+993,,,FALSE,low tree density
+994,,,TRUE,
+995,,,TRUE,
+996,,,FALSE,hard to analise
+997,,,FALSE,hard to analise
+998,,,TRUE,
